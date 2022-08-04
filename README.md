@@ -8,4 +8,4 @@
 블로그 링크: https://velog.io/@hyesukim1/GoogLeNet-Going-deeper-with-convolutions
 
 ## [Yolo V3] You Only Look Once / An Incremental Improvement
-블로그 링크: 
+블로그 링크: https://velog.io/@hyesukim1/YOLOv3-You-Only-Look-Once-An-Incremental-Improvement
