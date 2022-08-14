@@ -12,3 +12,5 @@
 
 ## [Yolo V3] You Only Look Once / An Incremental Improvement
 블로그 링크: https://velog.io/@hyesukim1/YOLOv3-You-Only-Look-Once-An-Incremental-Improvement
+
+## [Yolo v2] You Only Look Once / Better, Faster, Stronger
