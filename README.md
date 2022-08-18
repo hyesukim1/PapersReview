@@ -10,8 +10,10 @@
 ## [Yolo V1] You Only Look Once, Real-Time Object Detection
 블로그 링크: https://velog.io/@hyesukim1/YOLOv1-You-Only-Look-Once-Unified-Real-Time-Object-Detection-%EC%9E%91%EC%84%B1-%EC%A7%84%ED%96%89%EC%A4%91
 
+## [Yolo v2] You Only Look Once / Better, Faster, Stronger
+블로그 링크: https://velog.io/@hyesukim1/YOLOv2-Better-Faster-Stronger
+
 ## [Yolo V3] You Only Look Once / An Incremental Improvement
 블로그 링크: https://velog.io/@hyesukim1/YOLOv3-You-Only-Look-Once-An-Incremental-Improvement
 
-## [Yolo v2] You Only Look Once / Better, Faster, Stronger
-블로그 링크: https://velog.io/@hyesukim1/YOLOv2-Better-Faster-Stronger
+## [Faster Rcnn] Towards Real-Time Object Detection with Region Proposal Networks
