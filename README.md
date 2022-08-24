@@ -24,3 +24,4 @@
 
 ## [Faster Rcnn] Towards Real-Time Object Detection with Region Proposal Networks
 - [Paper PDF](https://arxiv.org/pdf/1506.01497.pdf)
+- [블로그 링크](https://velog.io/@hyesukim1/Faster-Rcnn-Towards-Real-Time-Object-Detection-with-Region-Proposal-Networks)
