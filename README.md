@@ -1,4 +1,4 @@
-# PapersReview
+# Papers review : 논문 리뷰
 논문을 읽고 해석하며 블로그 포스팅과 코드로 구현하는 것이 목표입니다.
 <br/><br/><br/>
 
