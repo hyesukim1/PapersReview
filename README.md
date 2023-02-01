@@ -26,4 +26,6 @@
 - [Paper PDF](https://arxiv.org/pdf/1506.01497.pdf)
 - [블로그 링크](https://velog.io/@hyesukim1/Faster-Rcnn-Towards-Real-Time-Object-Detection-with-Region-Proposal-Networks)
 
-## [Vision Transformer] Transformers for Image Recognition at Scale
+## [Swin Transformer] Hierarchical Vision Transformer using Shifted Windows
+- [Paper PDF](https://arxiv.org/pdf/2103.14030v2.pdf)
+- [블로그 링크](https://velog.io/@hyesukim1/Swin-Transformer-Hierarchical-Vision-Transformer-using-Shifted-Windows-ryepov7u)
